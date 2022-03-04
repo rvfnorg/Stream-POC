@@ -1,0 +1,27 @@
+{
+  "hosting": {
+    "public": "build",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ],
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  },
+  "functions": {
+    "source": "functions",
+    "host": 5050
+  },
+  "emulators": {
+    "functions": {
+      "port": 5051
+    },
+    "hosting": {
+      "port": 5052
+    },
+    "ui": {
+      "enabled": true
+    }
+  }
+}

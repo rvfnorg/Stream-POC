@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "streamio-eaff7",
+  "private_key_id": "c0ec0aa8bf3d978ee217b743af4fea326abdd726",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQChzJBsitkwG4FE\nLwpHl3dSKmAgEMqnjww4PtEMKeMt9DvtYLfsU++aZiHZ3qAuiIogfjwbx+XYYKMs\nViassekxKmmnMk6/J+BjeBtRrfqK+kgaBipg/IugIE9E6/9E9ZjT4lW0vtaCzEcv\nmPDgLZiJ0wevPMmqhEXPkuLYQANND5PrSG8EyCNUXCUqFw8QCdzCxdFhUCVbXZsm\nM3RXnETI30U2VK22NhwacvrJUrEIxdfsJE6ve9vRkqRuTU5qUpyGX8y4kxIxzKjE\n67H82oSuPXjskeljAIRqwn9ot3faj3KoCfp3D6M+5TrhL5chg0kzphuqHWC9JoqR\nY5ReV6s3AgMBAAECggEAA8kzGe8XzOnf2PYW0f0H1Drcm/N4onoU6Z4CqzuxrqoX\n2uKX+yYtpZm9MgllCyGzxbXedzHyvWDpgIiViBXzpGxfI4PoVs26kOlHDl65TZY0\nqLM7O6C9LaaD5FN3Wig7Br41jjCm+VGJWuJDxKMcfiEbfWy5NU26CnTf7Pp2eU+Z\n9+VkX0Ws8SXtejpI8Dp38dH3EVHZhUccTjqrpN1lVE4zWq0XhAeDYM2QpV9otI8d\ndBi2tvth+s9Ruf47kbaxrSIPqHwN2tkThN56nIu7LPZ3P8PMN1yxKR6DJJyP1ehP\ngRNln8BMklBqD+hB/KMnGbCIxtw3RvADGMvUBarhWQKBgQDVg8EhcF3QJsc1D8V5\nq9vXWlhp9/nEqXvaFuu0syG0l2iRFHC3WlXUBKI7gRI+DprCeEjwZjSq6AMM2BWU\n+aW2zDuZrZth4Pl8MKohL24F3vKpwtqvNJtwyg5tRNEuCJD04jG9GD6EFZLUBE6H\nbILaXX8MHNFrenyac/ThXEgmbwKBgQDB/nbQmVUBKELzP6tJA8nUR6OYHCRoBNQN\nIHqaPg4wFioNYauBUJpZj5tAgMBPl3RIwDQLSQLrbw/Lc9XN+4YvoE9N6YtfXfDp\nT+UrIgEd8/67wnTfVw9EPQMn568fwcbVBGEt52KjW5KcOrqEKgCPanRxOn8aC3FB\nskU+0dTruQKBgQCFQx6fiEqFSC69Z4KRVjp4RuM4AJXbsQykKfojZkp7NKUHKALR\n7Yf0NJAtI3oHUYY2Km0b3i6xHO4KbjPKL6bGWOI6IKkChjAw2w7Ud43sDCLY4c0r\n3WHHG9W1TWZhnOcccLEqnJ8oQW7K9YUt8QQa1pAdNz9eHaz3mbgVkEtX8QKBgQCR\nrscLYBq2A8ZDZkz7SB0JjcMNOBUfCIE2Wm2352JAOmTaJ77kHePL3kx45DeHjfWF\nrNFoqCvJIl56K0MkrP7YRUtI91nzBFkm3Rj8i0zLcbCa0C10i6yrUiZMkXCyKJNo\n5SEVl+47P0maiYAIQIKrMQbBAWzx4iXrcDUQOAPuAQKBgB5sS/IbhfUXpohuFCk2\nWe734NX5rGrOjJuzuLiAce3YePeU9zwZ71Mj62qQ+5HnubQfxsblVWuOodrDp3gw\nZ2jx2dK/ZjlhvNtgjGntXiruJB+CxkxzT5ZSjgYW6hTmWubkZsMy3sy1wUg4TILn\nH4vNNAyyNNa3aiCHSNQ9ktx0\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamio-eaff7@appspot.gserviceaccount.com",
+  "client_id": "109237950048251924584",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamio-eaff7%40appspot.gserviceaccount.com"
+}
